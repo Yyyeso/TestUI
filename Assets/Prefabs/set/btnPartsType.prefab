@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 3011323655085996665}
   - component: {fileID: 3011323655085996666}
   m_Layer: 5
-  m_Name: imgOption
+  m_Name: imgContent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -167,7 +167,7 @@ GameObject:
   - component: {fileID: 3011323655473070918}
   - component: {fileID: 3011323655473070917}
   m_Layer: 5
-  m_Name: btnPartsOption
+  m_Name: btnPartsType
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

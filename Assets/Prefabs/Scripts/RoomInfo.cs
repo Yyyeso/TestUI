@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ConferenceInformation
+public class RoomInfo
 {
     public string title;
     public string about;
@@ -12,7 +12,7 @@ public class ConferenceInformation
     public bool seletedDateOption;
     public bool seletedLinkOption;
 
-    public ConferenceInformation(string title, string about, string date1, string date2, string link, bool dateOption, bool linkOption)
+    public RoomInfo(string title, string about, string date1, string date2, string link, bool dateOption, bool linkOption)
     {
         this.title = title;
         this.about = about;

@@ -9,7 +9,7 @@ enum AgreementType
     Optional
 }
 
-public class UIAgreement : UIToggle
+public class UIAgreement : UIRadioButton
 {
     [SerializeField] private AgreementType type;
     [SerializeField] private TMP_Text txtType;
